@@ -1,2 +1,4 @@
-# Seminar_2026_Visualisierungen
-Unterlagen
+# Seminar_2026_Visualisierung
+Seminar material
+
+
